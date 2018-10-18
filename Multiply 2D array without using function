@@ -1,4 +1,3 @@
-//multiply 2D array without using function
 #include <iostream>
 using namespace std;
 
